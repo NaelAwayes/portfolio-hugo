@@ -1,0 +1,35 @@
+baseurl = "http://example.org"
+title = "Nael AWAYES"
+theme = "dimension"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+disableKinds=["RSS"]
+
+[params]
+  description = '<!--[-->Développeur C/CPP/Web Full Stack<!--]--><br />
+                <!--[--><!--]-->'
+  logoimage = "/media/images/avatar.jpg"
+  copyright = "Untitled"
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "#"
+
+[[params.social]]
+  medium = "linkedin"
+  icon = "linkedin"
+  link = "#"
+
+[languages]
+[languages.en]
+languageName = "English"
+weight = 1
+
+[languages.de]
+languageName = "Deutsch"
+weight = 2
+title = "Dimension"
+description = '<!--[--><!--]--><br />
+                <!--[--><!--]-->'
