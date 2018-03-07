@@ -1,16 +1,14 @@
 baseurl = "http://example.org"
 title = "Nael AWAYES"
 theme = "dimension"
-languageCode = "en-us"
-defaultContentLanguage = "en"
+languageCode = "fr-fr"
+defaultContentLanguage = "fr"
 enableRobotsTXT = true
 disableKinds=["RSS"]
 
 [params]
-  description = '<!--[-->Développeur C/CPP/Web Full Stack<!--]--><br />
-                <!--[--><!--]-->'
-  logoimage = "/media/images/avatar.jpg"
-  copyright = "Untitled"
+  description = '<!--[-->Développeur C/CPP/Swift/Web Full Stack<!--]--><br /><!--[--><!--]-->'
+  copyright = "Nael AWAYES"
 
 [[params.social]]
   medium = "github"
@@ -23,13 +21,6 @@ disableKinds=["RSS"]
   link = "#"
 
 [languages]
-[languages.en]
+[languages.fr]
 languageName = "English"
 weight = 1
-
-[languages.de]
-languageName = "Deutsch"
-weight = 2
-title = "Dimension"
-description = '<!--[--><!--]--><br />
-                <!--[--><!--]-->'
