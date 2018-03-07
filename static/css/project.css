@@ -1,0 +1,5 @@
+#header .logo {
+    background-image: url("/images/avatar.jpg");
+    background-position: center center;
+    background-size: 5.5rem, 5.5rem;
+}
