@@ -1,3 +1,6 @@
 [submodule "public"]
 	path = public
 	url = git@github.com:NaelAwayes/NaelAwayes.github.io.git
+[submodule "themes/themes/dimension"]
+	path = themes/themes/dimension
+	url = https://github.com/sethmacleod/dimension.git
