@@ -11,14 +11,19 @@ disableKinds=["RSS"]
   copyright = "Nael AWAYES"
 
 [[params.social]]
-  medium = "github"
+  medium = "GitHub"
   icon = "github"
   link = "https://github.com/NaelAwayes"
 
 [[params.social]]
-  medium = "linkedin"
+  medium = "LinkedIn"
   icon = "linkedin"
   link = "https://www.linkedin.com/in/naelawayes/"
+
+[[params.social]]
+  medium = "CV"
+  icon = "file-pdf-o"
+  link = "/documents/CV_Nael_AWAYES_FEVRIER_2018_FR_4x4.pdf"
 
 [languages]
 [languages.fr]

@@ -8,9 +8,15 @@ draft: false
   <input name="_replyto" placeholder="Your email" type="email"><br>
   
   <textarea name="message" placeholder="Your message"></textarea><br>
-  
-  <button type="submit">Send</button>
-  <input type="hidden" name="_next" value="/media/pages/thanks.html" />  
+  <input type="hidden" name="_subject" value="Nouveau contact sur le portfolio!" />
+  <input type="hidden" name="_language" value="fr" />
+  <button type="submit">Send</button>  
 </form>
 
+{{< socialLinks >}}
+
+<script>
+  $('.icon').attr('target', '_blank');
+  $('.label').addClass('fadeIn');
+</script>
 
