@@ -5,5 +5,5 @@ draft: false
 ---
 ---
 Code Camp iOS
-[Lettre de recommandation par Robin Le Querec](/media/lettre_de_recommandation_nae__l_awayes.pdf)
+[Lettre de recommandation par Robin Le Querec](/media/documents/lettre_de_recommandation_nae__l_awayes.pdf)
 ---
