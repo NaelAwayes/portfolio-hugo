@@ -18,7 +18,7 @@ _Développement de fonctionnalités et corrections de bugs dans le cadre d'un st
 #### 1ère place
 _Développement d'une application iOS en Swift afin de gérer les stocks disponibles pour Studio ETNA, dans le cadre d'un hackathon durant 2 semaines organisé par Prep'ETNA. La technologie Swift et Cocoa n'avait pas encore été appréhendée par les participants au sein du cursus scolaire_
 
-**Voir lettre de recommandation dans _"Mes références"_ pour plus d'informations.
+**Voir lettre de recommandation dans _"<a href="/#recommendations">Mes références</a>"_ pour plus d'informations.**
 
 ---
 
@@ -26,7 +26,7 @@ _Développement d'une application iOS en Swift afin de gérer les stocks disponi
 #### 1ère place
 _Développement d'une solution de devis en ligne pour l'entreprise Didacto au moyen d'un module Prestashop. Je n'avais jamais utilisé Prestashop auparavant. Ce module à été réalisé au cours d'un hackathon de 2 semaines organisé par Prep'ETNA_
 
-**Voir lettre de recommandation dans _"Mes références"_ pour plus d'informations.
+**Voir lettre de recommandation dans _"<a href="/#recommendations">Mes références</a>"_ pour plus d'informations.**
 
 ---
 
