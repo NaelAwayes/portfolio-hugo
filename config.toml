@@ -13,12 +13,12 @@ disableKinds=["RSS"]
 [[params.social]]
   medium = "github"
   icon = "github"
-  link = "#"
+  link = "https://github.com/NaelAwayes"
 
 [[params.social]]
   medium = "linkedin"
   icon = "linkedin"
-  link = "#"
+  link = "https://www.linkedin.com/in/naelawayes/"
 
 [languages]
 [languages.fr]
