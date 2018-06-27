@@ -30,11 +30,17 @@ _Développement d'une solution de devis en ligne pour l'entreprise Didacto au mo
 
 ---
 
+### Code Camp Mobile Promo 2021
+#### 1ère place
+_Réalisation d'une application mobile et d'une interface web pour l'entreprise SkillZ_
+
+---
+
 # Projets en cours
 
 ---
 ---
 
-### Trenches TCG
-#### [Blog de développement](http://naelawayes.github.io/TrenchesTCG)
-_Réalisation d'un jeu de carte connecté avec 3 co-promos, dans le cadre du projet libre de notre formation au sein de Prep'ETNA_
+### Dalfboard
+_Réalisation d'un plateau connecté pour jeu de cartes à jouer et à collectionner avec 3 co-promos, dans le cadre du projet libre de notre formation au sein de Prep'ETNA_
+**Projet vainqueur de la Business Week 2018 de Prep'ETNA**
