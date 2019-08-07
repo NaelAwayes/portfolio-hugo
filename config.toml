@@ -23,7 +23,7 @@ disableKinds=["RSS"]
 [[params.social]]
   medium = "CV"
   icon = "file-pdf-o"
-  link = "/documents/CV_Nael_AWAYES_AVRIL_2018_FR_4x4.pdf"
+  link = "/documents/CV_nael.pdf"
 
 [languages]
 [languages.fr]
